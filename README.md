@@ -1,3 +1,5 @@
+# Basic Calculator App
+
 It's a basic Calculator App built only using Java. This calculator can do summation, substraction, multiplication and divition operation between two rational numbers. Other than these, it can also perform negation, square root and percentage calculation on any rational number. And lastly it has a "All Clear" button which refreshes the display. 
 
 # Language Used: Java
